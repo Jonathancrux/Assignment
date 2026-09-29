@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Oladipo Jonathan</h1>
+  </head>
+  <body>
+    <p>Hello my name is jonathan</p>
+    <p>I am a student</p>
+    <p>I study computer engineering</p>
+    <ul>
+      <li>I like to code</li>
+      <li>I like to play games</li>
+      <li>I like to watch anime</li>
+    </ul>
+    <ol>
+      <li>I want to visit japan before 25</li>
+      <li>I want to be rich</li>
+      <li>
+        I want to develop a website that helps people learn web development
+      </li>
+      <li>I want to become good at coding that people will pay me for it</li>
+      <li>I want to travel the world</li>
+    </ol>
+    <img src="A book on a table" alt="Book" />
+    <img src="A cat on a table" alt="Cat" />
+  </body>
+</html>
